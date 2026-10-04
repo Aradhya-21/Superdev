@@ -1,0 +1,5 @@
+com\internal\tasktracker\Task.class
+com\internal\tasktracker\TaskController.class
+com\internal\tasktracker\TaskTrackerApplication.class
+com\internal\tasktracker\TaskRepository.class
+com\internal\tasktracker\TaskStatus.class
